@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an Advanced Analytics Specialist in the Research and Analysis department at the Canadian Institute for Health Information (CIHI). Additionally, I am a PhD candidate in the Biology department at Concordia University.
+I am an Advanced Analytics Specialist from the Research and Analysis division at the Canadian Institute for Health Information (CIHI). Additionally, I am also a PhD candidate in the Biology department at Concordia University at the Community Ecology and Biogeography Lab. 
 
 I mentor healthcare analyst teams in transitioning their logical pipelines to open-source workflows. My research focuses on predictive approaches to ecological network assembly, mapping biogeographic patterns in response to climate change, and exploring how humans perceive biodiversity.
 
